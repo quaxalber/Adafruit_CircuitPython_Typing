@@ -12,7 +12,7 @@ requires = [
 [project]
 name = "quax-circuitpython-typing"
 description = "Types needed for type annotation that are not in `typing`"
-version = "0.0.0+auto.0"
+version = "1.9.5"
 readme = "README.rst"
 authors = [
     {name = "Adafruit Industries", email = "circuitpython@adafruit.com"}
