@@ -10,14 +10,14 @@ requires = [
 ]
 
 [project]
-name = "adafruit-circuitpython-typing"
+name = "quax-circuitpython-typing"
 description = "Types needed for type annotation that are not in `typing`"
 version = "0.0.0+auto.0"
 readme = "README.rst"
 authors = [
     {name = "Adafruit Industries", email = "circuitpython@adafruit.com"}
 ]
-urls = {Homepage = "https://github.com/adafruit/Adafruit_CircuitPython_Typing"}
+urls = {Homepage = "https://github.com/quaxalber/Adafruit_CircuitPython_Typing"}
 keywords = [
     "adafruit",
     "blinka",
